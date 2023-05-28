@@ -18,7 +18,7 @@ body {
 }
 .navegacao-link{
     font-family: 'Montserrat', sans-serif;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     color: #22d4fd;
     text-decoration: none;
@@ -30,13 +30,13 @@ body {
     justify-content: space-between;
 }
 .apresentacao-conteudo{
-    width: 615px;
+    width: 50%;
     display: flex;
     flex-direction: column;
     gap: 60px;
 }
 .apresentacao-conteudo-titulo{
-    font-size: 36px;
+    font-size: 2.25rem;
     font-family: 'Krona One', sans-serif;
     font-weight: 400;
 }
@@ -46,6 +46,9 @@ body {
 .apresentacao-conteudo-texto{
     font-size: 24px;
     font-family: 'Montserrat', sans-serif;
+}
+.imagem{
+    width: 50%;
 }
 .apresentacao-links{
     display: flex;
@@ -58,11 +61,11 @@ body {
 .subtitulo{
     font-family: "Krona One", sans-serif;
     font-weight: 400;
-    font-size:  24px;
+    font-size:  1.5rem;
 }
 
 .listas{
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: 'Montserrat', sans-serif;
 }
 .linksButton{
@@ -70,11 +73,11 @@ body {
     align-items: center;
     justify-content: center;
     gap: 16px;
-    width: 378px;
+    width: 50%;
     text-align: center;
     border: 2px solid #22d4fd;
     border-radius: 8px;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     padding: 21.5px 0px;
     text-decoration: none;
@@ -91,6 +94,6 @@ body {
     text-align: center;
     padding: 24px 0px;
     font-family: 'Montserrat', sans-serif;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
 }
