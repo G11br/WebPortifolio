@@ -104,6 +104,7 @@ body {
     }
     .navegacao{
         justify-content: center;
+        gap: 50px;
     }
     .apresentacao{
         flex-direction: column-reverse;
